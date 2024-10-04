@@ -1,1 +1,1 @@
-A simple worlde clone, submitted for CSC322
+A simple worlde clone, submitted for CSC321
